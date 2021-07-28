@@ -1,0 +1,23 @@
+body {
+    background-color: yellow;
+}
+
+#head1 {
+text-align: center;
+}
+
+#logo {
+    text-align: center;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+
+#output{
+    background-color: bisque;
+    border-radius: 10px; 
+    border-top: 10px solid #AA4465;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
